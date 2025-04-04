@@ -10,10 +10,4 @@ Es por eso que la paso muy bien en la facu pero otras veces me provoca mucha ans
 Veremos como lo llevo este cuatri!
 Además de esta materia (la cual me interesa bastante) estoy cursando Estructura de Datos y Base de Datos.
 Estoy entusiasmada de compartir con los profes y mis compañeros lo mejor de mí para llevar la materia adelante.
-
-
-
-
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+Gracias!!
